@@ -1,0 +1,17 @@
+# Use node:14 as a base image
+
+
+# Create app directory (use /app path)
+
+
+# Copy all package json files under /app
+
+# Run yarn install
+
+
+# copy all files into the image
+
+# open required port number
+
+
+# run application

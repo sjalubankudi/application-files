@@ -1,0 +1,20 @@
+# Use node:14 as a base image
+
+
+# Create app directory (path should be /usr/src/app)
+
+
+# Copy all package json files
+
+
+# do npm install
+
+
+
+# now, copy all files into the image
+
+
+# open required port number
+
+
+# run the application

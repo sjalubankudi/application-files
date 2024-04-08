@@ -1,0 +1,7 @@
+# use postgres base image
+
+
+# copy init.sql under correct path (check postgres image details for more info)
+
+
+# open required port number
